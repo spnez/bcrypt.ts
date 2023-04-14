@@ -3,6 +3,8 @@
     "target": "esnext",
     "module": "commonjs",
     "sourceMap": true,
+    "declaration": true,
+    "declarationMap": true,
     "moduleResolution": "node",
     "baseUrl": "./src",
     "outDir": "./dist"
