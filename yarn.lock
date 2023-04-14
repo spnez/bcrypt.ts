@@ -38,9 +38,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@spnez/bcrypt.ts@workspace:.":
+"@spnez/bcrypt@workspace:.":
   version: 0.0.0-use.local
-  resolution: "@spnez/bcrypt.ts@workspace:."
+  resolution: "@spnez/bcrypt@workspace:."
   dependencies:
     "@types/node": ^18.15.11
     ts-node: ^10.9.1
