@@ -2,6 +2,8 @@
   "name": "@spnez/bcrypt.ts",
   "license": "MIT",
   "version": "0.1.0",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "packageManager": "yarn@3.5.0",
   "devDependencies": {
     "@types/node": "^18.15.11",
