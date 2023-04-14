@@ -1,0 +1,11 @@
+{
+  "name": "@spnez/bcrypt.ts",
+  "license": "MIT",
+  "version": "0.1.0",
+  "packageManager": "yarn@3.5.0",
+  "devDependencies": {
+    "@types/node": "^18.15.11",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.4"
+  }
+}
